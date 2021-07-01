@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rradhai
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning from Springboard Data Science Career track course
+- 🌱 I’m currently learning the basic skills needed for Data Science.
 - 💞️ I’m looking to collaborate on learning every aspect in this field
 - 📫 How to reach me ...
 
